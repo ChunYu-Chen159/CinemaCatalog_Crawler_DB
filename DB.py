@@ -28,6 +28,7 @@ for s in sel:
         'english_name': englishName,
         'director': director,
         'characters': characters,
+        'price': '250',
         'category': 'HK',
         'img_url': img_url
     }
@@ -52,7 +53,8 @@ for s in sel2:
         'english_name': englishName,
         'director': director,
         'characters': characters,
-        'category': 'HK',
+        'price': '250',
+        'category': 'TW',
         'img_url': img_url
     }
 
